@@ -12,3 +12,12 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 border-radius: 28px;
 
 }
+/*.box-model > div {
+background: #CD5C5C;
+width: 25%;
+height: 200px;
+float: left;
+border: 4px solid sandybrown;
+box-sizing: border-box;
+} */
+ 
